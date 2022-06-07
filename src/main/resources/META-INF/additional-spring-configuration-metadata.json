@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.jpa.hibernate.hbm2ddl.auto",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.hbm2ddl.auto."
+  }
+] }
